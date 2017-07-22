@@ -1,5 +1,8 @@
 {
   "name": "caffeinehit-map",
-  "app_id": "",
-  "type": "ionic1"
+  "app_id": "7b153c95",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
 }
